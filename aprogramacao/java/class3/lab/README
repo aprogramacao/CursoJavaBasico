@@ -1,0 +1,7 @@
+Construir um programa para implementar as classes:
+- Animal (movimenta, respira, vive, alimenta);
+- Mamifero (mama);
+- Baleia (nada).
+Instancie objetos de
+- Baleia.
+Atribua valores para os atributos e imprima-os.
